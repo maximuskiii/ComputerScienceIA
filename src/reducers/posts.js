@@ -12,4 +12,4 @@ export default (posts = [], action) => {
 }
 
 //Yayyayayay, full stakc webapp works, kind of.
-// First, the react application sent a post-request to the back-end application, then our application communicated it to the database and we now have our file saved in 
+// First, the react application sent a post-request to the back-end application, then our application communicated it to the  database and we now have our file saved in 
